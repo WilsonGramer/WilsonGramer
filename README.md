@@ -1,6 +1,4 @@
-<img height=84 src="https://0.gravatar.com/avatar/1a55ce5c75a3f6759a6ecd47e99f7aac?s=200" alt="Wilson Gramer">
-
-<h1 align="center">Hi, I'm Wilson Gramer</h1>
+<h1 align="center">Hi, I'm Wilson Gramer!</h1>
 
 <p align="center">I'm a passionate student developer currently working at <a href="https://mk-dir.com/">Make Directory</a>. I'm mainly interested in devops and backend programming, and work primarily with Swift, TypeScript, Rust and Go. Check out what I’ve been building recently:</p>
 
